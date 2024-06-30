@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+table{
+	border-collapse:collapse;
+	border:2px solid black;
+}
+thead{
+	color:red;
+	border:2px solid;
+}
